@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>inactive.png</file>
+        <file>active.png</file>
+        <file>../../../../Downloads/login.jpg</file>
+        <file>login.jpg</file>
+        <file>firewall.jpg</file>
+    </qresource>
+</RCC>
